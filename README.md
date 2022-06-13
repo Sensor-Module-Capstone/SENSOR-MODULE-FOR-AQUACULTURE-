@@ -1,7 +1,8 @@
 # CAPSTONE - LOW COST SENSOR MODULE FOR AQUACULTURE 
 - **We are developing and designing a low cost sensor module that has its application in water quality monitoring for providing a better aquatic life.** 
 ## pH Sensor
-- pH sensor was first calibrated physically by using the adjusting srcew on IC 
+- First CCP source code was used to obtain raw values.
+- pH sensor was calibrated physically by using the adjusting srcew on IC 
 - Then CPP source code was used extract pH values of different liquids.
 ```
 #define SensorPin 0          //pH meter Analog output to Arduino Analog Input 0
