@@ -68,3 +68,4 @@ for i in range(50):
         print(num)
 ser.close() 
 ```
+![ph Sensor Image](file:///home/vedansh/Pictures/Screenshot%20from%202022-04-25%2003-05-38.png)
